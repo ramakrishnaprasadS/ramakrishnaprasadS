@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Big Data projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramakrishnaprasadS](https://github.com/ramakrishnaprasadS)
+- 👨‍💻 All of my projects are available at [https://github.com/ramakrishnaprasadS?tab=repositories](https://github.com/ramakrishnaprasadS)
 
 - ⚡ Fun fact **I think I am funny**
 
